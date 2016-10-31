@@ -1,8 +1,9 @@
 img { 
-    width: 600px
+    width: 1000px
 }
 
 body {
     text-align: center;
     font-family: Arial;
+    background: url(https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg);
 }
