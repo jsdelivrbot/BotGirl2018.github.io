@@ -1,9 +1,8 @@
-img { 
-    width: 1000px
+img {
+    width: 200px;
 }
-
 body {
     text-align: center;
-    font-family: Arial;
-    background: url(https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg);
+    font-family: fantasy;
+    background-color: rgb(0,0,0);
 }
